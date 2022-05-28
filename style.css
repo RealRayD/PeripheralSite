@@ -1,0 +1,27 @@
+.navbar-purple {
+    background: #4B0082;
+}
+.nav-item {
+    padding-left: 7pt;
+    padding-right: 7pt;
+}
+.nav-link {
+    color: #FFEA00 !important;
+}
+.page-head {
+    padding: 3%;
+    background: url(back.jpg);
+}
+
+.card {
+
+    padding:2%;
+}
+.row {
+    padding-left: 2%;
+    padding-top: 3%;
+}
+.prodimg {
+    width: 400px;
+    height: 250px;
+}

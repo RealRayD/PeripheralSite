@@ -1,0 +1,19 @@
+.nav-item {
+    padding-left: 1pt;
+    padding-right: 1pt;
+}
+.nav-link {
+    color: #FFEA00 !important;
+
+}
+.landing-head {
+    padding: 10%;
+    background: url(back.jpg);
+    height: 100vh;
+    width: 100%;
+}
+.landing-nav {
+    padding-top: 10%;
+
+}
+
